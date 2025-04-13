@@ -1,0 +1,17 @@
+# Ignore virtual environments
+venv/
+COWRIE/cowrie/cowrie-env/
+
+# Ignore logs
+*.log
+*.log.*
+logs/
+COWRIE/cowrie/var/log/
+
+# Ignore GeoIP DB
+data/GeoLite2-City.mmdb
+
+# Ignore compiled files
+*.pyc
+__pycache__/
+

@@ -1,0 +1,8 @@
+{
+    "honeypot_name": "ChilliPot",
+    "listen_ports": [80, 443, 3306, 8080, 2223],
+    "log_location": "/opt/honeypot/logs",
+    "admin_email": "jeroyrin@gmail.com",
+    "ip_whitelist": ["10.0.0.222"],
+    "high_interaction": false
+}
