@@ -447,3 +447,1573 @@ Traceback (most recent call last):
     with open(simple_log, 'r') as simple_file:
          ~~~~^^^^^^^^^^^^^^^^^
 PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
+Traceback (most recent call last):
+  File "/opt/honeypot/scripts/format_combined_logs.py", line 35, in <module>
+    with open(simple_log, 'r') as simple_file:
+         ~~~~^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '/opt/honeypot/logs/commands.log'
